@@ -4,7 +4,7 @@
 
 🌍 Namakkal, Tamil Nadu, India  
 📧 pradeepdr361998@gmail.com | drpradeepai@meddataforai.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/drpradeepai) | 🌐 Portfolio Website: meddataforai.com *(coming soon)* | [GitHub Projects](https://github.com/drpradeepAI)
+🔗 [LinkedIn](https://www.linkedin.com/in/drpradeepai) | 🧬 [ORCID](https://orcid.org/0009-0001-8016-275X) | 🌐 Portfolio Website: meddataforai.com *(coming soon)* | [GitHub Projects](https://github.com/drpradeepAI)
 
 ---
 
@@ -16,6 +16,9 @@ Founder of **MedDataForAI**, a **Udyam-registered MSME under the Government of I
 Currently freelancing globally while developing skills in **Full Stack Medical AI Development**, merging medical reasoning, data engineering, and compassionate design to create intelligent, ethical healthcare technology.
 
 > “Bridging Medicine, Data, and AI — Transforming Clinical Knowledge into Intelligent Systems.”
+
+🚀 Recently released:  
+🩺 [**Clinical NLP — Cardiology (20 Cases)**](https://github.com/drpradeepAI/Clinical-NLP-Cardiology-20Cases/releases/tag/v1.0) — a structured, 36-label annotated dataset for EHR-based NLP model development (Doccano JSONL, BioBERT-ready).
 
 ---
 
@@ -35,21 +38,20 @@ Currently freelancing globally while developing skills in **Full Stack Medical A
 **Languages:** Python (basic), SQL (Mimo Certified)  
 **Frameworks:** Transformers, Pandas, BioBERT, Regex  
 **Version Control:** Git, GitHub, Dataset Cards  
-**Other Skills:** Project packaging, prompt-based automation, dataset documentation  
+**Other Skills:** Project packaging, dataset documentation, prompt-based automation, pipeline workflow design  
 
 ---
 
-### 💼 Projects Portfolio
+### 💼 Featured Projects Portfolio
 
 | Project | Domain | Description |
 |----------|---------|-------------|
-| 🫀 **Cardiology NLP Dataset** | Clinical NLP | 20 annotated cardiology EHR cases for BioBERT fine-tuning |
-| 🫁 **Chest X-ray Lesion Dataset** | Radiology | 50-image dataset with bounding box & segmentation masks |
-| 🧠 **CT Brain Tumor Dataset** | Radiology | 50 CT scans annotated for tumor segmentation |
-| 🧬 **MRI Brain Tumor Dataset** | Radiology | 50 MRI scans labeled with region masks |
-| 🧾 **Dataset QA & Standardization** | NLP/Imaging | Schema normalization and consistency checks across datasets |
+| 🩺 [Clinical NLP — Cardiology (20 Cases)](https://github.com/drpradeepAI/Clinical-NLP-Cardiology-20Cases/releases/tag/v1.0) | Clinical NLP | 20 annotated EHR case reports (Cardiology) — 36-label schema, Doccano JSONL, BioBERT-ready |
+| 🧬 [Medical AI Data Annotation](https://github.com/drpradeepAI/Medical-AI-Data-Annotation) | Multi-domain AI | Multi-specialty dataset collection — NLP, Radiology, Pathology |
+| 🧪 Dataset QA & Standardization | NLP/Imaging | Schema validation, dataset normalization, and consistency checks |
+| ⚙️ AI Annotation Automation Tools | Software | Scripts for Doccano → JSONL → BioBERT fine-tuning pipelines |
 
-📂 View all repositories → [github.com/drpradeepAI?tab=repositories](https://github.com/drpradeepAI?tab=repositories)
+📦 *Explore all repositories → [github.com/drpradeepAI?tab=repositories](https://github.com/drpradeepAI?tab=repositories)*
 
 ---
 
