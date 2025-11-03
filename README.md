@@ -1,6 +1,6 @@
 # 👨‍⚕️ Dr. Pradeep Shanmugam
 
-**MBBS Doctor | Medical AI Data Annotation Specialist | Founder – MedDataForAI | AI Data Annotator | Aspiring Full Stack Medical AI Developer**
+**MBBS Doctor | AI Data Annotator | Medical AI Data Annotation Specialist | Founder – MedDataForAI | Aspiring Full Stack Medical AI Developer**
 
 🌍 Namakkal, Tamil Nadu, India  
 📧 pradeepdr361998@gmail.com | drpradeepai@meddataforai.com  
