@@ -43,7 +43,7 @@ Currently freelancing worldwide while advancing skills in **Full Stack Medical A
 
 | Project | Domain | Description |
 |----------|---------|-------------|
-| 🩺 [Clinical NLP — Cardiology (20 Cases)](https://github.com/drpradeepAI/Clinical-NLP-Cardiology-20Cases/releases/tag/v1.0) | Clinical NLP | 20 structured case reports annotated with a 36-label schema — Doccano JSONL, BioBERT-ready |
+| 🩺 [Medical Text NLP — Annotation Project](https://github.com/drpradeepAI/MedicalText-NLP-Annotation-Project/releases/tag/v1.0) | Medical Text NLP | 20 annotated EHR case reports demonstrating a reusable medical NLP annotation workflow — Doccano JSONL, BioBERT-ready |
 | 🩻 [Chest X-ray Lesion Detection](https://github.com/drpradeepAI/ChestXray-LesionDetection-AnnotationProject/releases/tag/v1.0) | Radiology (X-ray) | 50 X-ray images annotated with bounding boxes for mass/lesion detection — COCO, CSV, VOC, YOLO formats |
 | 🧠 [CT Brain Tumor Segmentation](https://github.com/drpradeepAI/CTBrain-TumorSegmentation-AnnotationProject/releases/tag/v1.0) | Radiology (CT) | 50 CT scans segmented for tumor identification — multi-format exports (COCO, VOC, PNG masks) |
 | 🧩 [MRI Brain Tumor Segmentation](https://github.com/drpradeepAI/MRIBrain-TumorSegmentation-AnnotationProject/releases/tag/v1.0) | Radiology (MRI) | 50 MRI brain images manually segmented for tumor boundaries — pixel-wise, multi-format interoperability |
@@ -61,7 +61,7 @@ Currently freelancing worldwide while advancing skills in **Full Stack Medical A
 | [v1.0 — X-ray Lesion Detection](https://github.com/drpradeepAI/ChestXray-LesionDetection-AnnotationProject/releases/tag/v1.0) | X-ray | Bounding Box | CVAT |
 | [v1.0 — CT Tumor Segmentation](https://github.com/drpradeepAI/CTBrain-TumorSegmentation-AnnotationProject/releases/tag/v1.0) | CT | Polygonal + Mask | CVAT |
 | [v1.0 — MRI Tumor Segmentation](https://github.com/drpradeepAI/MRIBrain-TumorSegmentation-AnnotationProject/releases/tag/v1.0) | MRI | Semantic Mask | CVAT |
-| [v1.0 — Clinical NLP (Cardiology)](https://github.com/drpradeepAI/Clinical-NLP-Cardiology-20Cases/releases/tag/v1.0) | Clinical Text | Named Entity Recognition | Doccano |
+| [v1.0 — Medical Text NLP (20 Annotated EHR Case Reports)](https://github.com/drpradeepAI/MedicalText-NLP-Annotation-Project/releases/tag/v1.0) | Clinical Text | Named Entity Recognition | Doccano |
 
 ---
 
